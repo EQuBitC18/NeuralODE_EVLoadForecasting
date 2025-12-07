@@ -1,0 +1,6 @@
+Single Neural ODE with Day-of-Week Aggregation (168 hours)
+
+mse: 4531.965954
+rmse: 67.319878
+mae: 55.463776
+r2: 0.780610
