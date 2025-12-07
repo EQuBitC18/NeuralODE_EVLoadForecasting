@@ -236,7 +236,7 @@ pip install pandas numpy matplotlib
 - Chen, R. T., Rubanova, Y., Bettencourt, J., & Duvenaud, D. K. (2018). Neural ordinary differential equations. NeurIPS.
 - Dormand, J., & Prince, P. (1980). A family of embedded Runge-Kutta formulae. Journal of Computational and Applied Mathematics.
 - Hairer, E., Nørsett, S. P., & Wanner, G. (1993). Solving ordinary differential equations I: Nonstiff problems.
-
+- Åse Lekang Sørensen, Igor Sartori, Karen Byskov Lindberg, Inger Andresen (2024). Electric vehicle charging dataset with 35,000 charging sessions from 12 residential locations in Norway
 ## Author Notes
 
 This pipeline demonstrates:
@@ -251,3 +251,4 @@ For questions or contributions, refer to the code comments and docstrings in `NO
 
 **Last Updated:** November 2025  
 **Status:** Research prototype; ready for extended experiments with RNN baselines and full hyperparameter tuning.
+
